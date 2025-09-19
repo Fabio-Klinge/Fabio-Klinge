@@ -57,6 +57,8 @@ I'm always interested in collaborating on:
 
 - **Email**: fa.klinge@proton.me
 - **LinkedIn**: [linkedin.com/in/fabio-maximilian-klinge](https://linkedin.com/in/fabio-maximilian-klinge)
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fabio-maximilian-klinge" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/fabio-maximilian-klinge?trk=profile-badge">Fabio Maximilian Klinge</a></div>
+              
 
 ---
 
@@ -65,4 +67,5 @@ I'm always interested in collaborating on:
 <!---
 Fabio-Klinge/Fabio-Klinge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 --->
