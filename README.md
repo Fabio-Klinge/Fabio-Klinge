@@ -56,8 +56,7 @@ I'm always interested in collaborating on:
 ## 📫 Get In Touch
 
 - **Email**: fa.klinge@proton.me
-- **LinkedIn**: [linkedin.com/in/fabio-maximilian-klinge](https://linkedin.com/in/fabio-maximilian-klinge)
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fabio-maximilian-klinge" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/fabio-maximilian-klinge?trk=profile-badge">Fabio Maximilian Klinge</a></div>
+- **LinkedIn**: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fabio-maximilian-klinge" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/fabio-maximilian-klinge?trk=profile-badge">Fabio Maximilian Klinge</a></div>
               
 
 ---
